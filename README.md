@@ -1946,3 +1946,23 @@ Es gilt weiterhin zu untersuchen, ob und inwiefern Parameter bei der bisherigen 
 Die Datentransformation, die während des Trainings und den initialen Vorhersagen durchgeführt wurde muss auch entsprechend der Live-Datenquelle durchgeführt werden. Das bedeutet, evtl. Aufwändige Datenebereinigung oder Vorbereitungen für das Modell müssen innerhalb der API durchgeführt werden. So stellen sich evtl. neue Anforderungen an das Modell, damit Transformationen nicht zu aufwändig sind, um eine Responsivität der API zu gewährleisten.
 
 Zusammenfassend lässt sich sagen, dass es einige Aufgaben zu erledigen gilt, bevor ein trainiertes ML-Modell produktiv genutzt werden kann.
+
+1. **Wie werden die Modelle bereitgestellt?:**
+1. **Wie werden die Modelle bereitgestellt?:**
+
+
+## Execution
+There are several options to execute this notebook.
+
+### Via Jupyter
+```
+
+```
+
+
+### Via Google Colab
+
+1. Visit https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+2. Choose GitHub Enter and enter File Path (e.g. https://github.com/DHBWMannheim/MachineLearning/blob/master/machineLearning.ipynb)
+3. Choose the right file - e.g. machineLearning.ipynb
+4. Execute the Artefacts step by step
